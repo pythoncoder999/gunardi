@@ -21,6 +21,7 @@ ul {
 .active {
     background-color: #666;
     color: white;
+    width: 100%;
 }
 
 li a {
@@ -70,7 +71,7 @@ header {
 
 nav {
     float: left;
-    width: 30%;
+    width: 20%;
     height: 300px;
     /* only for demonstration, should be removed */
     background: #ccc;
@@ -87,7 +88,7 @@ nav ul {
 article {
     float: left;
     padding: 20px;
-    width: 70%;
+    width: 80%;
     background-color: #f1f1f1;
     height: 300px;
     /* only for demonstration, should be removed */
